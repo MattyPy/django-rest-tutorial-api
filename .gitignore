@@ -1,0 +1,5 @@
+*~
+*.pyc
+db.sql3
+__pycache__
+
